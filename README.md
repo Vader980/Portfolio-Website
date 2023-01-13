@@ -1,1 +1,5 @@
-# Portfolio-Website
+# A portfolio website is a website that showcases an individual's or a company's past and current projects, skills, and experiences. It serves as a digital resume for job seekers, freelancers or anyone looking to promote their work online. My portfolio website built using ReactJs, it's a responsive and clean design that is easy to navigate. The website is divided into several sections, including an about me, projects, and contact sections. The project section showcases my past and current projects, with screenshots and descriptions of each project. The about me section provides information about my background, skills, and experience.
+
+The website also has an integrated contact form which allows visitors to easily get in touch with me. Additionally, the website is optimized for search engines and has a clean, well-organized codebase, making it easy for others to understand and contribute to. I am using Github as a version control and the website is hosted on Github Pages for easy access.
+
+The website can be accessed at []. Feel free to take a look and let me know your thoughts!
